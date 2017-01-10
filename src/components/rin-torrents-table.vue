@@ -48,8 +48,8 @@
       }
     }
     .header {
-      position: absolute;
-      top: 0;
+      position: fixed;
+      top: 0 ！important;
       left: 0;
       display: block;
       color: @table-header-fg;
