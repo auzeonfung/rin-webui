@@ -62,6 +62,7 @@
       width: 20px;
       height: 20px;
       margin: 6px 6px;
+      z-index: 3;
     }
   }
 </style>
